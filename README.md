@@ -1,4 +1,4 @@
-# creditcardfraud
+# Credit Card Fraud Prediction
 
 A jupyter notebook for analyzing credit card fraud from Kaggle Dataset https://www.kaggle.com/c/ieee-fraud-detection/data
 
